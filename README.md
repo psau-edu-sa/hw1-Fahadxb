@@ -1,3 +1,3 @@
-Hello im Fahad Aljlaifi
-This file about my homework
-I hope it helps you write your homeworks
+The homework is about Youtube.
+Youtube is a website provide a platform for sharing and watching videos
+Youtube services include uploading and waching videos, creating adn managing channles commenting on videos etc..
